@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1584280844 source:d:\latihan c++\dll\main.cpp
+	"dll.h"
+
+1584263164 d:\latihan c++\dll\dll.h
+	<iostream>
+
+1584281905 source:d:\latihan c++\dll\dll.cpp
+	"dll.h"
+
