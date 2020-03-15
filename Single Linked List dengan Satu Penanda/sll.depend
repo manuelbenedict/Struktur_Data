@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1584259471 source:d:\latihan c++\sll\main.cpp
+	"sll.h"
+
+1584259671 d:\latihan c++\sll\sll.h
+	<iostream>
+
+1584259702 source:d:\latihan c++\sll\sll.cpp
+	"sll.h"
+
